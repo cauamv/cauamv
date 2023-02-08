@@ -18,4 +18,4 @@
   
 </div>
 
-![Snake animation](https://github.com/rafaballerini2/cauamv/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/cauamv/cauamv/blob/output/github-contribution-grid-snake.svg)
