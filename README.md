@@ -1,4 +1,4 @@
-### Bem-vind@ ao meu perfil do GitHub! 😁
+## Bem-vind@ ao meu perfil do GitHub! 😁
 
 - 🔭 Atualmente não estou trabalhando 😔
 - 🌱 Em fase de aprendizagem! Estudando no SENAI
