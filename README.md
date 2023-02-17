@@ -2,7 +2,7 @@
 
 - 🔭 Atualmente não estou trabalhando 😔
 - 🌱 Em fase de aprendizagem! Cursando técnico em DESENVOLVIMENTO DE SISTEMAS!
-- ⚡ Fato curioso: Apaixonado por tecnologia desde meus 7 anos! 😲
+- ⚡ Fato curioso: Incentivado pelos pais, sou apaixonado por tecnologia desde meus 7 anos! 😲
 
 <div style="display: inline_block"><br>
   <img align="center" alt="caua-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
