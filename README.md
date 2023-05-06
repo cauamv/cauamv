@@ -1,7 +1,7 @@
 ## Bem-vind@ ao meu perfil do GitHub! 😁
 
 - 🔭 Atualmente não estou trabalhando 😔
-- 🌱 Em fase de aprendizagem! Cursando técnico em DESENVOLVIMENTO DE SISTEMAS!
+- 🌱 Em fase de aprendizagem! Cursando 3° semestre em técnico em DESENVOLVIMENTO DE SISTEMAS.
 - ⚡ Fato curioso: Incentivado pelos pais, sou apaixonado por tecnologia desde meus 7 anos! 😲
 
 <div style="display: inline_block"><br>
