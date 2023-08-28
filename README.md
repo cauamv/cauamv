@@ -1,6 +1,6 @@
 ## Bem-vind@ ao meu perfil do GitHub! 😁
 
-- 🔭 Atualmente não estou trabalhando 😔
+- 🔭 Atualmente estou trabalhando em uma loja de informática, como técnico 🖥
 - 🌱 Em fase de aprendizagem! Cursando 3° semestre em técnico em DESENVOLVIMENTO DE SISTEMAS.
 - ⚡ Fato curioso: Incentivado pelos pais, sou apaixonado por tecnologia desde meus 7 anos! 😲
 
