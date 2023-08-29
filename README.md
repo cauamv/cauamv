@@ -5,7 +5,7 @@
 ## 👾 Sobre mim: 
 
 - 🔭 Atualmente estou trabalhando em uma loja de informática, como técnico 🖥
-- 🌱 Em fase de aprendizagem! Cursando 4° semestre em técnico de DESENVOLVIMENTO DE SISTEMAS.
+- 🌱 Cursando 4° semestre em técnico de Desenvolvimento de Sistemas.
 - ⚡ Fato curioso: Incentivado pelos pais, sou apaixonado por tecnologia desde meus 7 anos! 👉
 
 <div style="display: inline_block"><br>
