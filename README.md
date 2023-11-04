@@ -4,7 +4,7 @@
 
 ## 👾 Sobre mim: 
 
-- 🔭 Atualmente estou trabalhando em uma loja de informática, como técnico. 🖥
+- 🔭 Atualmente estou procurando emprego! 🖥
 - 🌱 Cursando 4° semestre em técnico de Desenvolvimento de Sistemas.
 - ⚡ Fato curioso: Incentivado pelos pais, sou apaixonado por tecnologia desde meus 7 anos! 👉
 
