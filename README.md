@@ -6,7 +6,7 @@
 
 - 💼 Atualmente trabalho como Auxiliar Técnico Aprendiz no Complexo Médico Provida! 🖥
 - 🎓 Formado em Técnico em Desenvolvimento de Sistemas.
-- 🌱 Cursando 1° semestre em Análise em Desenvolvimento de Sistemas.
+- 🌱 Cursando 2° semestre em Análise em Desenvolvimento de Sistemas.
 - ⚡ Fato curioso: Incentivado pelos pais, sou apaixonado por tecnologia desde meus 7 anos! 👉
 
 <div style="display: inline_block"><br>
