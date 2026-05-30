@@ -4,9 +4,8 @@
 
 ## 👾 Sobre mim: 
 
-- 💼 Atualmente trabalho como Auxiliar de Apoio ao Usuário N1/N2 na Trier Sistemas (Cloud)! 🖥
+- 💼 Atualmente trabalho como Suporte Técnico da ToolsPharma! 🖥
 - 🎓 Formado em Técnico em Desenvolvimento de Sistemas.
-- 🌱 Cursando 4° semestre em Análise em Desenvolvimento de Sistemas no IFSC - Câmpus Tubarão.
 - ⚡ Fato curioso: Incentivado pelos pais, sou apaixonado por tecnologia desde meus 7 anos! 👉
 
 <div style="display: inline_block"><br>
