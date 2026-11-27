@@ -8,7 +8,7 @@
 - 💻 Transformando ideias em código.
 - 🚀 Sempre aprendendo novas tecnologias e desenvolvendo projetos.
 - 🎯 Buscando novos desafios e oportunidades.
-- ⚡ Fato curioso: Incentivado pelos meus pais, sou apaixonado por tecnologia desde os 7 anos! 👉
+- ⚡ Fato curioso: Incentivado pelos pais, sou apaixonado por tecnologia desde os 7 anos! 👉
 
 <div style="display: inline_block"><br>
   <img align="center" alt="caua-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
